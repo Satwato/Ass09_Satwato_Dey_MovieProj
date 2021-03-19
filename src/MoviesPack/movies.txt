@@ -1,0 +1,9 @@
+1,Barfi,Romance,Hindi,23/4/2012,Priyanka Chopra:Ranbeer Kapoor,4.5,25
+2,Avengers,Action,English,4/5/2012,Chris Hemsworth:Robert D. Jr.,4,30
+3,Three Idiots,Comedy,Hindi,6/4/2012,Kareena Kapoor:Aamir Khan,4,80
+Four,Student of the Year,Useless,Hindi,3/10/2012,Alia Bhatt:Varun Dhawan,2,10
+5,Talaash,Thriller,Hindi,12/12/2010,Kareena Kapoor:Aamir Khan,3.5,25
+6,Madagascar,Comedy,English,4/5/2012,Lion:Zebra,5,120
+7,Random Movie,Drama,English, 2/3/2013, Actor:Actor2,1.5,2
+8,Mi Shivaji,Drama,Marathi,6/6/2012,Marathi Actor:Marathi Actor2,4,34
+
